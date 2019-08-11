@@ -1,0 +1,6 @@
+************* Start runs/SurveySite_inference_testing *************
+Processing Inference dataset...
+=========================
+Predictions saved to:
+runs/SurveySite_inference_testing/predictions.csv
+=========================

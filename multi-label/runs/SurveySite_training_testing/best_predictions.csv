@@ -1,0 +1,43 @@
+data/SurveySite_dset/ac-1.JPG,['cab']
+data/SurveySite_dset/ac.jpg,['roof']
+data/SurveySite_dset/access.jpg,['roof']
+data/SurveySite_dset/cab-1-2-2.JPG,"['cab', 'gravel']"
+data/SurveySite_dset/cab-1.jpg,"['cab', 'gravel']"
+data/SurveySite_dset/chain-link-fence+cab.jpg,"['cab', 'fence', 'gravel']"
+data/SurveySite_dset/chain-link-fence+power-pole.jpg,['fence']
+data/SurveySite_dset/chain-link-fence+tree.jpg,"['fence', 'towerbase']"
+data/SurveySite_dset/chain-link-fence-1-1.jpg,"['fence', 'gravel']"
+data/SurveySite_dset/concrete-pad+building.jpg,"['building', 'cab']"
+data/SurveySite_dset/gate-1.jpg,"['building', 'cab', 'fence', 'gravel', 'towerbase']"
+data/SurveySite_dset/generator.jpg,"['building', 'cab', 'fence', 'gravel']"
+data/SurveySite_dset/ground+chain-link-fence.jpg,['fence']
+data/SurveySite_dset/h-frame+cab+ice-bridge+concrete-pad.jpg,"['cab', 'fence', 'gravel']"
+data/SurveySite_dset/h-frame+chain-link-fence.jpg,"['fence', 'gravel']"
+data/SurveySite_dset/h-frame-2.jpg,"['cab', 'fence', 'gravel']"
+data/SurveySite_dset/h-frame.jpg,"['cab', 'fence', 'gravel']"
+data/SurveySite_dset/hand-hole-2.JPG,['gravel']
+data/SurveySite_dset/ice-bridge-2.jpg,"['cab', 'fence', 'gravel']"
+data/SurveySite_dset/road-1-1.jpg,['road']
+data/SurveySite_dset/road2-2.jpg,['road']
+data/SurveySite_dset/road4.jpg,['road']
+data/SurveySite_dset/roof-10.jpg,['roof']
+data/SurveySite_dset/roof-12.jpg,['roof']
+data/SurveySite_dset/roof-14.jpg,['roof']
+data/SurveySite_dset/roof-15.jpg,['roof']
+data/SurveySite_dset/roof-17.jpg,[]
+data/SurveySite_dset/roof-2.jpg,['roof']
+data/SurveySite_dset/roof-3.jpg,['roof']
+data/SurveySite_dset/roof-7.jpg,['roof']
+data/SurveySite_dset/roof-drain.jpg,['roof']
+data/SurveySite_dset/roof.jpg,['roof']
+data/SurveySite_dset/stake+pin.jpg,['stake']
+data/SurveySite_dset/stake-10.jpg,['stake']
+data/SurveySite_dset/stake-11.jpg,['stake']
+data/SurveySite_dset/stake-12.jpg,['stake']
+data/SurveySite_dset/stake-3.jpg,['stake']
+data/SurveySite_dset/stake-5.jpg,['stake']
+data/SurveySite_dset/stake-7.jpg,['stake']
+data/SurveySite_dset/tower-base-1-1.jpg,"['cab', 'gravel', 'towerbase']"
+data/SurveySite_dset/tower-base-1-2.JPG,['gravel']
+data/SurveySite_dset/tower-base-1.jpg,"['fence', 'gravel', 'towerbase']"
+data/SurveySite_dset/woods+chain-link-fence.jpg,"['gravel', 'road']"

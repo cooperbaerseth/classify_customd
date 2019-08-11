@@ -1,0 +1,11 @@
+===========================
+Trained Model Configuration
+===========================
+Model Name: runs/surveysite_training_testing
+Date/Time Created: 2019-07-11 17:40:01.051130
+Accuracy: 1.0
+Classes Trained On: 
+0) chainlink_fence
+1) roof
+2) road
+3) stake

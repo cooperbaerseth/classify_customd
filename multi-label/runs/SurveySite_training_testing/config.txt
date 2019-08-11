@@ -1,0 +1,15 @@
+===========================
+Trained Model Configuration
+===========================
+Model Name: runs/SurveySite_training_testing
+Date/Time Created: 2019-08-06 13:48:17.788166
+Accuracy: 93.06%
+Classes Trained On: 
+0) building
+1) cab
+2) fence
+3) gravel
+4) road
+5) roof
+6) stake
+7) towerbase
