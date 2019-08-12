@@ -14,7 +14,7 @@ single-label version and the multi-label version. Fair warning, the multi-label 
 so it requires much more data to get high accuracy. 
 
 At a high level, the process for using the neural net is as follows:
-1) Label a set of images (no less than 20 examples per field code)
+1) Label a set of images (no less than 20 examples per class)
 2) Package the images into the correct folder format (details on this later)
 3) Run the training script
 4) Gather new unlabeled images
@@ -22,7 +22,7 @@ At a high level, the process for using the neural net is as follows:
 
 Labeling a set of images and running the training script:
 
-### Single - Label
+### Single-Label
 
 In order to label a set of images, organize them into subfolders, where the each subfolder's name is the image class for
 all images in that subfolder. For example:
@@ -55,7 +55,7 @@ all images in that subfolder. For example:
 |	|-> image9.jpg
 ```
 
-### Multi - Label
+### Multi-Label
 
 In order to give labels to a set of images for training, create a csv file as such:
 
@@ -154,7 +154,7 @@ This argument tells the script which neural network to load. The name should mat
 name. It will look in runs/model_directory for what it needs. Changing the directory that it looks for the model
 should be easy if needed. Look on line 22 (under "global parameters").
 
-Once surveysite_inference.py is done, 2 files will be created and place them in runs/run_name:
+Once inference.py is done, 2 files will be created and place them in runs/run_name:
 
 **log.out:**
 
